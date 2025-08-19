@@ -1,2 +1,2 @@
-# Portfolio
-A summary to my projects and case studies with a focus on Data Analytics
+# Jimmy's Portfolio
+Welcome to my data analysis portfolio! Here, I document a summary of my projects in the data field.
